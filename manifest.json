@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+!   "manifest_version": 2,
 
     "name": "Disable HTML5 Autoplay",
     "short_name": "DisableAutoplay",
@@ -28,3 +28,4 @@
 
     "permissions": ["webNavigation", "<all_urls>", "storage", "unlimitedStorage"]
 }
+ 
